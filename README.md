@@ -1,2 +1,2 @@
 # reservacf
-Sitio Web de Reserva.cf
+Sitio Web de http://pulgafree.github.io/reservacf
