@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reserva</title>
+    <link>http://reserva.cf/</link>
+    <description>Recent content on Reserva</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ar</language>
+    <atom:link href="http://reserva.cf/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
