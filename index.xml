@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reserva</title>
-    <link>http://http://pulgafree.github.io/reservacf/</link>
+    <link>http://pulgafree.github.io/reservacf/</link>
     <description>Recent content on Reserva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
-    <atom:link href="http://http://pulgafree.github.io/reservacf/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://pulgafree.github.io/reservacf/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
